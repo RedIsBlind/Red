@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UFT-8">
+        <title>Red's Web</title>
+    </head>
+
+    <body style="background-image: url(./Assset/Img/fa91407783c24006043fadc17ab67ef2.jpg);
+    background-size: 100%;
+    background-attachment: fixed;
+    background-repeat: no-repeat;">
+        <h1>Red's Test Web</h1>
+        <img src="Assset/Img/Houzuki.Yayoi.full.4004306.jpg "  height="250px"/>
+        <p style="font-size:larger;" >This Is My Test Website To Test/Try New Code I Learn And Try Them Out So They Will Be Updates Ones In A Blue Moon So Have A Look Around My Website</p>
+        <a href="./Sub Web/index.html" style="font-size: larger;" >Songs</a>
+    </body>
+</html>
